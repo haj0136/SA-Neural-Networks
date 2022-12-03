@@ -1,5 +1,5 @@
 ## Sentiment Analysis experiments with neural networks  
-Recursive-NN and Convolutional-NN
+Recursive-NN (LSTM) and Convolutional-NN
 
 All experiments use Python 3.7
 Computationally simpler experiments are implemented in the Jupiter notebook
